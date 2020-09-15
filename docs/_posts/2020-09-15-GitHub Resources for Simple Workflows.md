@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Github Resources for Simple Workflows
 
 
