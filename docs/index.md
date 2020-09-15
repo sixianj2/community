@@ -1,5 +1,6 @@
 ---
-title: nanoMFG Developer Community
+sidebar:
+  nav: "main"
 ---
 
 ## Welcome to GitHub Pages
