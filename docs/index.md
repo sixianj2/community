@@ -9,7 +9,7 @@ sidebar:
   
 ## Tool Developer Topics
 
-<a href="docs/_posts/2020-09-15-GitHub-Resources-for-Small-Workflows.md">Github Getting Started<a/> <br>
+[{% post_url GitHub-Resources-for-Small-Workflows %}](Github Getting Started)
 
   
 
