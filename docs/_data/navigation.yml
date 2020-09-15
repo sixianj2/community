@@ -1,5 +1,5 @@
 main:
-  - title: Resources
+  - title: "Resources"
   children:
-    - title: Resources for Developers and Contributers
+    - title: "Resources for Developers and Contributers"
       url: Developer-Resources
