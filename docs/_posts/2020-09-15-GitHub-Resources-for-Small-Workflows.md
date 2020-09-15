@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Darren Adams
 ---
 
 Github provides a lot of features for version control, project management, continuous integration and on an on.  
