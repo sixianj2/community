@@ -1,5 +1,5 @@
 main:
-  - title: Home
-  - url: index
   - title: Resources
-  - url: Developer-Resources
+  children:
+    - title: Resources for Developers and Contributers
+      url: Developer-Resources
