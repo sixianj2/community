@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: nanoMFG Community
 description: Resources for contributers and members of the nanoManufacturing (nanoMFG) project.
-show_downloads: true
+show_downloads: False
