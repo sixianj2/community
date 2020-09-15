@@ -6,6 +6,9 @@ title: nanoMFG Developer Community
 
 <a href="Developer_Resources">Developer Resources<a/> <br>
   
+## Tool Developer Topics
+<a href="{% post_url 2020-09-15-GitHub Resources for Simple Workflows %}">GitHub Resources for Simple Workflows<a/>
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
