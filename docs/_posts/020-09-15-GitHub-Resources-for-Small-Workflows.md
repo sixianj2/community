@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Girhub Resources for Small Workflows
 ---
 
 Github provides a lot of features for version control, project management, continuous integration and on an on.  
