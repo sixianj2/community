@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 ---
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-Github provides a lot of features for version control, project management, continuous integration and on an on.  
-This post is an attempt to hightlight the most useful Git hub Resources for nanoMFG projects.
+{{ content }}
