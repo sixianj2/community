@@ -7,4 +7,4 @@ defaults:
   - scope:
       path: "assets/docs"
     values:
-      image: true
+      image: False
