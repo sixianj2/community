@@ -1,5 +1,8 @@
-main:
-  - title: "Resources"
-  children:
-    - title: "Resources for Developers and Contributers"
+--- 
+main: 
+  ? "-title"
+  : Resources
+  children: 
+    - 
+      title: "Resources for Developers and Contributers"
       url: Developer-Resources
