@@ -5,6 +5,6 @@ show_downloads: False
 
 defaults:
   - scope:
-      path: "docs/assets/docs"
+      path: "assets/docs"
     values:
       image: False
