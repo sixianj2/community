@@ -9,7 +9,14 @@ sidebar:
   
 ## Tool Developer Topics
 
-[{% post_url GitHub-Resources-for-Small-Workflows %}](Github Getting Started)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
   
 
