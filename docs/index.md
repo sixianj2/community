@@ -7,7 +7,7 @@ title: nanoMFG Developer Community
 <a href="Developer_Resources">Developer Resources<a/> <br>
   
 ## Tool Developer Topics
-<a href="{% post_url 2020-09-15-GitHub Resources for Simple Workflows %}">GitHub Resources for Simple Workflows<a/>
+[GitHub Resources for Small Workflows]({% post_url 2020-09-15-GitHub-Resources-for-Small-Workflows %})
   
 ### Markdown
 
