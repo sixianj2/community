@@ -7,6 +7,8 @@ sidebar:
 
 <a href="Developer_Resources">Developer Resources<a/> <br>
   
+<a href="Planning Activities">Project Planning Activities<a/> <br>
+  
 ## Tool Developer Topics
 
 <ul>
