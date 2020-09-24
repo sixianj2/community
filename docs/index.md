@@ -9,6 +9,8 @@ sidebar:
   
 <a href="Planning Activities">Project Planning Activities<a/> <br>
   
+<a href="https://github.com/nanoMFG/community/blob/master/rfcs/%5Bproject%5D-SPD-%5Bversion%5D.md">Software Planning Document(SPD) Template<a/> <br>
+  
 ## Tool Developer Topics
 
 <ul>
