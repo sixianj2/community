@@ -6,7 +6,7 @@
 
 ## Development Team
 <!-- Complete table for all team members 
- roles: PI, developer, validation
+ roles: PI, developer, reviewer
  status: active, inactive
 -->
 Name | Role | github user | nanohub user | email | status
