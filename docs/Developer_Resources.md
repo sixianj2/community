@@ -39,6 +39,20 @@ and
 
 or [VSCode](https://code.visualstudio.com/).
 
+## Editing Markdown Documents
+Below is a link to one of the best maredown resources, GitHub's own markdown documentation:
+
+[mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
+Below are more tips and tricks...
+
+### Adding images to GitHub Markup Documents
+A nice trick to include images in a markup document is to use the [image attachment feature for issues](https://help.github.com/en/articles/file-attachments-on-issues-and-pull-requests).  Any issue will do, as the image does not have to be embedded there.
+* Pick an issue or open on in your repo.  
+* Drag the image into to the edit window to geneare an anonymized url which can then be pasted in and `*.md` file in the repository
+  - An example image tag will look like: `<img width="600" alt="Screen Shot 2019-05-13 at 7 28 51 PM" src="https://user-images.githubusercontent.com/12611210/57662580-b3591180-75b5-11e9-83a5-e043848f46a9.jpg">`
+
+
 ## Handling Jupyter Notebooks with Git
 
 Jupyter notebooks are great, but the nice features also lead to some annoying problems when trying to use a traditional version control based on diffs like git.  The problem is that cell output and various meta data are accumulated in the .ipynb file when executing it, so you see differences even if no substantive edits were made to the cells.  Here is a good article for configuring Git to avoid these hassles:
