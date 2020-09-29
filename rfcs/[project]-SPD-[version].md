@@ -6,12 +6,12 @@
 
 ## Development Team
 <!-- Complete table for all team members 
- roles: PI, developer, reviewer
+ roles: lead, developer, reviewer
  status: active, inactive
 -->
 Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
-Joe Shmo | PI | jshmo | jshmo | jshmo@nanocool.co | active
+Joe Shmo | lead | jshmo | jshmo | jshmo@nanocool.co | active
 Alice Land | developer | alice1 | alice2 | alice@wonderland | inactive
 
 **nanoMFG Github Team(s):** @coolteam
