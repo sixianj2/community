@@ -36,8 +36,10 @@ Review GitHub account details for team members and create a project development 
 Note: this is best completed by the project PI and/or repository admin (creator).<br/>
 
 - [ ] If possible, ask all of your team members to update their GitHub profile to include: full name, email and home institution.
-- [ ] Create a GitHub team using all of your project team member's GitHub accounts (including the PI's) in the nanoMFG organization (see below).
-- [ ] Add your project repository to the team.
+- [ ] Consider making your nanoMFG membership public to advertise our project.
+- [ ] Create a GitHub team using all of your project team member's GitHub accounts (including the PI's) in the nanoMFG organization (see below).  
+Typical team names use a "-dev" suffix like "nanocool-dev".
+- [ ] Add your project repository to the team and grant the team write access to you repo.
 
 ### References
 Here are GitHub's docs on teams:
