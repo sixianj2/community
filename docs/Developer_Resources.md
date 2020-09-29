@@ -7,8 +7,6 @@
 
 [Ownership, Authorship and Licenses](#owner)
 
-[Issue Templates and Useful Issues](#issues)
-
 <a name="vc"/>
 
 # Version Control using Git and GitHub
@@ -139,9 +137,6 @@ Covers the basics of running Matlab or Octave code on nanoHub.  Covers writing .
 
 [Style guide for testing](https://jrsmith3.github.io/python-testing-style-guidelines.html)
 
-<a name="issues" />
-
-# Issue Reference
 
 ## Templates
 
