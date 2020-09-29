@@ -1,6 +1,13 @@
 # Create a Draft SPD from Template
 
-Draft Software Palnning Documents (SPDs) can be created and maintained in project repos.  
+Draft Software Palnning Documents (SPDs) can be created and maintained in project repos.  Prior to starting a draft, make sure you have a project repo and team access for all of you collaborators:
+
+Here are GitHub's docs on creating repos and teams:
+* [creating a new repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
+* [about teams](https://help.github.com/en/articles/about-teams)
+* [creating a team]( https://help.github.com/en/articles/creating-a-team)
+* [team access to repositories](https://help.github.com/en/articles/managing-team-access-to-an-organization-repository)
+
 The SPD should be a collaboration within your project team with input from the nanoMFG node community.
 Collaborating on this document is also a good chance for new developers to learn the basics of using Git and GitHub and to 
 practice a basic workflow such as [GitHub Flow](https://guides.github.com/introduction/flow/)
