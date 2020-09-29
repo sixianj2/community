@@ -6,7 +6,6 @@
   - [Identify Potential Users](#identify-potential-users)<br/>
   - [Draft and Update User Requirements](#draft-and-update-user-requirements)<br/>
   - [Add License Documents](#add-license-documents)<br/>
-  - [Complete Phase 1 Planning (Draft)](#complete-phase-1-planning-draft)<br/>
   - [Update Project Goals and Mission Statement](#update-project-goals-and-mission-statement)<br/>
   - [Plan User Outreach Activities](#plan-user-outreach-activities)<br/>
 * [phase: 2](#phase-2)<br/>
@@ -14,15 +13,11 @@
   - [Document System Environment and Known Constraints](#document-system-environment-and-known-constraints)<br/>
   - [Develop a Testing, Verification and Validation Plan](#develop-a-testing,-verification-and-validation-plan)<br/>
   - [Develop a Documentation Plan](#develop-a-documentation-plan)<br/>
-  - [Complete Phase 2 Planning (Draft)](#complete-phase-2-planning-draft)<br/>
 * [phase: 3](#phase-3)<br/>
   - [Develop Contributer Guidelines and Procedures](#develop-contributer-guidelines-and-procedures)<br/>
   - [Create Issues for Planned Activities](#create-issues-for-planned-activities)<br/>
   - [Complete Phase 3 Activities (Draft)](#complete-phase-3-activities-draft)<br/>
-* [phase: 4](#phase-4)<br/>
-  - [Complete Phase 4 Activities (Draft)](#complete-phase-4-activities-draft)<br/>
-* [phase: 5](#phase-5)<br/>
-  - [Complete Phase 5 Activities (Draft)](#complete-phase-5-activities-draft)<br/>
+
 
 # phase: 1
 ## Review GitHub Accounts and Team Membership
@@ -135,22 +130,6 @@ Apache 2 is the default license choice for nanoMFG projects.
 [starting and open source project](https://opensource.guide/starting-a-project/)
 [adding a license to a repository](https://help.github.com/en/articles/adding-a-license-to-a-repository)
 
-## Complete Phase 1 Planning (Draft)
-Phase | Activity Type | Work Estimate
----|---|---
-phase: 1 | None | None 
-### Summary
-Track progress on Phase 1 activities here.   Submit SPD for review when completed
-
-### Details
-Note, To see enhanced features for this (and other) issues refer to the Zenhub documentation link below.
-- [ ] Submit SPD draft with all phase 1 activities.
-
-### References
-
- [Instructions to Create SPD from Template](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#create-a-draft-spd-from-template)
-[Submitting SPD Updates for Review](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#submitting-spd-updates-for-review)
-[Adding ZenHub Extensions](https://github.com/nanoMFG/DevTeam/wiki/Reference-Material-and-Links-for-Developers#zenhub-extensions-to-github)
 ## Update Project Goals and Mission Statement
 Phase | Activity Type | Work Estimate
 ---|---|---
@@ -254,22 +233,6 @@ Some Documents include:
 
 Create issues for any specific documentation tasks using the documentation issue template.
 
-## Complete Phase 2 Planning (Draft)
-Phase | Activity Type | Work Estimate
----|---|---
-phase: 2 | None | None 
-### Summary
-Track progress on Phase 1 activities here.   Submit SPD for review when completed
-
-### Details
-Note, To see enhanced features for this (and other) issues refer to the Zenhub documentation link below.
-- [ ] Submit SPD draft with all phase 2 activities.
-
-### References
-
- [Instructions to Create SPD from Template](https://github.com/nanoMFG/Testing/tree/planning/doc/SPD#create-a-draft-spd-from-template)
-[Submitting SPD Updates for Review](https://github.com/nanoMFG/Testing/tree/planning/doc/SPD#submitting-spd-updates-for-review)
-[Adding ZenHub Extensions](https://github.com/nanoMFG/DevTeam/wiki/Reference-Material-and-Links-for-Developers#zenhub-extensions-to-github)
 # phase: 3
 ## Develop Contributer Guidelines and Procedures
 Phase | Activity Type | Work Estimate
@@ -325,33 +288,4 @@ Develop a set of issues needed to complete the activities planned in Phases 1 an
 * Use a milestone to set target completion dates for sets of issues
 * Assign and drag to `In Progress`.
 
-### References
 
-## Complete Phase 3 Activities (Draft)
-Phase | Activity Type | Work Estimate
----|---|---
-phase: 3 | None | None 
-### Summary
-Use this issue as a container for all planned phase development activities planning in phases 1-3.  In addition to `nanoMFG` activities, add your planned activities to this Epic.  Upon completion, update section 2.2.2 "Release Notes" of the SPD with the version # and completed activities, then submit for review. 
-
-### Details
- * If this issue is used as a tracking (Epic) issue, you can just add a link to this issue in the SPD, along with notes on any other relevant activities or features added.
-* Submit the updated SPD wit hrelease notes for reveiw:
-
-### References
-[submitting SPD updates for review](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#submitting-spd-updates-for-review)
-[getting started with Epics](https://help.zenhub.com/support/solutions/articles/43000500733-getting-started-with-epics)
-
-
-
-# phase: 4
-## Complete Phase 4 Activities (Draft)
-Phase | Activity Type | Work Estimate
----|---|---
-phase: 4 | None | None 
-
-# phase: 5
-## Complete Phase 5 Activities (Draft)
-Phase | Activity Type | Work Estimate
----|---|---
-phase: 5 | None | None 
