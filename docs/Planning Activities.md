@@ -70,8 +70,8 @@ Begin a Software Planning Document (SPD) and provide project information for the
 Once a pull request is opened, the nanoMFG `@dev-review` team will review the document and issue any feedback to the pull request and/or this issue.  Refer to the links in the references below for detailed instructions  on creating and submitting an SPD revision.
 
 ### References
- [Instructions to Create SPD from Template](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#create-a-draft-spd-from-template)
-[Submitting SPD Updates for Review](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#submitting-spd-updates-for-review)
+<!-- [Instructions to Create SPD from Template](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#create-a-draft-spd-from-template)
+[Submitting SPD Updates for Review](https://github.com/nanoMFG/%%reponame%%/tree/planning/doc/SPD#submitting-spd-updates-for-review) -->
 
 
 ## Identify Potential Users
