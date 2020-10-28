@@ -17,5 +17,5 @@
  <img width="366" alt="Screen Shot 2020-10-28 at 8 37 05 AM" src="https://user-images.githubusercontent.com/12611210/97443359-ec478c00-18f8-11eb-97a4-3746cf24cf8a.png">  
  3. Return to the xterm and add the URL (note you will need to type it if using the xterm in the workspace tool
  as it is not possible to cut-n-past into that web app.  Using a ssh terminal is preferred here.).  The command should look like:  
- `git`git clone https://github.com/nanoMFG/toolstart-jupyter.git`  
+ `git clone https://github.com/nanoMFG/toolstart-jupyter.git`  
  
