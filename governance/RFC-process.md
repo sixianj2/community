@@ -22,3 +22,6 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
 5. A review committee will be formed, and permissions disseminated.  Once the RFC has been received, it will be opened by the review committee for a period of about 2 weeks.
 
 
+After the initial phase 1 planning review, the PR will remain open.  The status will progress to the next phase and subsequent phase 2, 3 and 4 reviews opened as needed.  Only after the phse 4 implementation review will a SPD RFC be closed and merged as a final document in the `rfcs` directory.
+
+
