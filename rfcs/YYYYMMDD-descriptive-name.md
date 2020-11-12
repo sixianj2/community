@@ -4,9 +4,9 @@
 ## The Coolest nanoHUB Tool: nanocool
 ### Target Release: #.#.# : Month Day, 20##
 
-## Development Team
+## Project Team
 <!-- Complete table for all team members 
- roles: lead, developer, reviewer
+ roles: lead, developer, reviewer, contributer
  status: active, inactive
 -->
 Name | Role | github user | nanohub user | email | status
