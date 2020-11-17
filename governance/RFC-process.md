@@ -11,7 +11,7 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
    or other auxiliary files, create a directory of the form `YYYYMMDD-descriptive-name`
    in which to store those files. Note: if images are already included in a SPD draft and stored elsewhere in the nanoMFG organization, there is no need to duplicate them and re-link.
 
-3. Apply a phase label to indicate the current development phase of the project for which a RFC review is being requested:
+3. Apply a label: `phase n: Proposed` to indicate the current development phase of the project for which a RFC review is being requested. As a reminder:
 *  Phase 1: Planning Review
 * Phase 2: Design and Construction Review
 * Phase 3: Code Review
