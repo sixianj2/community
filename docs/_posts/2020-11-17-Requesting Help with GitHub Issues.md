@@ -2,8 +2,8 @@
 
 Github Issues is are a great way to capture complicated plans in a collection of simple issues that can be assigned, 
 labeled, commented on, opened closed etc.  To get started with GitHub issues refer to these great help resources.  
-https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-issues  
-https://guides.github.com/features/issues/  
+[about issues](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-issues)  
+[Mastering Issues](https://guides.github.com/features/issues/)  
 
 In addition to helping your team manage a project the nanoMFG node is rolling out an issue-based help system for requesting help from
 the NanoMFG DevOps team.  If there is something you would like help with (coding issues, nanoHub question, a nasty bug) 
