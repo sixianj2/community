@@ -11,11 +11,14 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
    or other auxiliary files, create a directory of the form `YYYYMMDD-descriptive-name`
    in which to store those files. Note: if images are already included in a SPD draft and stored elsewhere in the nanoMFG organization, there is no need to duplicate them and re-link.
 
-3. Apply a label: `phase n: Proposed` to indicate the current development phase of the project for which a RFC review is being requested. As a reminder:
-*  Phase 1: Planning Review
-* Phase 2: Design and Construction Review
-* Phase 3: Code Review
-•	Phase 4: Implementation Review
+3. Apply label(s): Add `phase n: Proposed` to indicate the current development phase of the project for which a RFC review is being requested. As a reminder:
+  * Phase 1: Planning Review
+  * Phase 2: Design and Construction Review
+  * Phase 3: Code Review
+  • Phase 4: Implementation Review  
+  Also, add a project label like `project:shortname` where `shortname` is the short name used for the tool on nanoHub.  
+  This will facilitate tracking and routing of comment and review notification to the correct Slack channel.
+
 
 4. Notify the nanoMFG-dev slack channel and all projects stakeholders which could include project leads, target user communities, PIs and nanoMFG leadership.  Be sure to include GitHub handles for any additional desired reviewers in the project Team table with the role of “reviewer”.
 
