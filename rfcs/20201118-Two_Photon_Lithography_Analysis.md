@@ -3,7 +3,7 @@
 ## The Coolest nanoHUB Tool: Two Photon Lithography Analysis
 ### Target Release: 12.15.2021 
 
-## Development Team
+## Project Team
 <!-- Complete table for all team members 
  roles: lead, developer, reviewer
  status: active, inactive
@@ -12,6 +12,10 @@ Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
 Sixian Jia | developer | sixianj2 | sixianj2| sixianj2@illinois.edu | active
 Yuhang Yang | developer| yang221 | yang221 | yang221@illinois.edu | active
+Hemangg Singh Rajput | reviewer | singhra2 | n/a | singhra2@illinois.edu | active
+Qing Ding | reviewer  | Aerovane | n/a | qingding@illinois.edu | inactive
+Varun Kelkar | reviewer  | kvarun95 | n/a | vak2@illinois.edu | inactive
+Mohammad Kabir | reviewer  | mmkabir2 | n/a | mmkabir2@illinois.edu | inactive
 
 
 
@@ -129,18 +133,30 @@ Experience level
 Type of interaction
 Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
 
+The researchers who use two photon lithography to generate micro/nanostructures will be the users of our tool. They could use our tool to generate the deometric deviation from the designed shape and get geimetric features and errors. Meanwhile, all uesful infomation will be summerize in a cvs file, users could download for futher analysis. 
+
 ### 3.2 User Requirements
 <!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
 
+The users who want to use the tool should design a sample which contain 5*5 hemispheres and all the hemispheres are identical. The useres need to use Keyence VK-X1000 3D laser scanning microscope to adopt for height measurement and save the height measurement in the format of a 768*1024 martix to upload the file in the tool. The users need to reocrd the deigned radius and input the designed radius in our tool. 
+
 ### 3.3 Proposed User Interface
 <!--Could include drawn mockups, screenshots of prototypes, comparison to existing software and other descriptions.-->
+Here is the example of geometric deviation from the designed shape.
+The smooth surface is the designed hemisphere, the inner shape is the acutal shape generate from two photon lithography.
+
+![Screen Shot 2020-11-10 at 1 45 03 AM](https://user-images.githubusercontent.com/71730024/98637761-e25d5a00-22f6-11eb-9078-1fe54cc099b7.png)
+
+Our tool will cacluate the equivalent radius, the maximum height, and the acual volume of the hemisphere. 
 
 ### 3.4 Documentation Plan
 <!-- List planned documentation activities -->
 
+
 ### 3.5 User Outreach Plan
 <!-- List upcoming activities designed to elicit user feedback and/or engage new users.  Use issues for activities that will be completed this iteration-->
 
+After the tool publihsed, we will ask the researchers who work on the two photon lithography to use our tool and give some feedback about the interface or the functions of the tool. Thus, we could improve some functions or the appearance of the tool for next version. 
 ## 4. Data And Quality Attributes
 
 ### 4.1 Data Dictionary
