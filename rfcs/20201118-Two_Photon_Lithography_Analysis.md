@@ -161,14 +161,15 @@ After the tool publihsed, we will ask the researchers who work on the two photon
 
 ### 4.1 Data Dictionary
 <!--Summarize inputs and outputs for the application.-->
-
+1.Input: The csv file which is generated from VK-X1000 3D laser scanning microscope(height measurement)
+2.Output: Spatial distribution of geometric feature in hight, radius, and volume. The geometric deviation from the designed shape and summary the geometric features and errors.
 ### 4.2 Usability and Performance
 <!--Summarize usability requirements such as easy of adoption for new users (eg example data),  inline documentation, avoiding errors, efficient interaction, etc.  Describe performance expectations  and/or document challenges.  Note you can reference user requirements from above if needed. -->
+Two Photon Lithography Analysis is a open source tool on nanoHub. It is easy to use for new users and avoiding calculation errors during the analysis progress. Besides, the tool use data visualization to help users more intuitive understand the errors between the degined model and the actual model. For performance expectation, the tool can summary the geometix features and errors but it can't know how to minimize the errors. This will be improved in the next version tool.
 
 ### 4.3 Testing, Verification and Validation
 <!--Describe What data is necessary to verify the basic functionality of the application.  Provide a testing plan that includes a list of issues for each planned activity.  Describe data sets that are needed to test validation.-->
+Ten test data files are provided on the tool. All the test datasets are raw data from the provious experiments.  User would use the testing data to verify the basic functionality of the tool. If the tool does not work, please double check the file format and the matrix dimension should be 768*1024 for height measurement.
 
 ### 4.4 Uncertainty Quantification
-<!--Identify and document possible sources of uncertainty. Categorize with standard labels, such as parametric, structural, algorithmic, experimental, interpolation.
-
-Develop a plan for measuring and documenting uncertainty, e.g., using forward propagation or inverse UQ, and showing it in the application, if applicable.-->
+<!--Identify and document possible sources of uncertainty. Categorize with standard labels, such as parametric, structural, algorithmic, experimental, interpolation.Develop a plan for measuring and documenting uncertainty, e.g., using forward propagation or inverse UQ, and showing it in the application, if applicable.-->
